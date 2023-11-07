@@ -1,0 +1,21 @@
+#main_screen
+{
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    background-image: url('bg.jpg');
+    background-position: center;
+    margin-top: 15%;
+}
+
+.scoreNum
+{
+    color: aliceblue;
+}
+
+#historySc
+{
+    color: antiquewhite;
+}
